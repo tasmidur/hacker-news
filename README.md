@@ -1,5 +1,4 @@
-# hn-clone
-
+# hacker-news
 ## Project setup
 ```
 npm install
